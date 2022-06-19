@@ -54,7 +54,7 @@
 --SELECT * FROM customer WHERE surname like "_harma" or age<50 order by age desc;
 
 -- UPDATE:
---UPDATE customer SET surname = 'Iron Man 2000' WHERE name = 'Shruti';
+-- UPDATE customer SET surname = 'Iron Man 2000' WHERE name = 'Shruti';
 
 --SELECT * FROM customer;
 
