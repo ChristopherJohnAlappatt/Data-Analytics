@@ -2,10 +2,10 @@
 -- SQL: Structured Query Lang 
 
 -- What is data? Details of something in a row & columns fashion
--- Structred way; Un-structured data
+-- Structured way; Un-structured data
 -- Table: Teacher info, Salaries of staff, Subjects, Timetable
 
--- What is Database? Collection of realted tables
+-- What is Database? Collection of related tables
 -- School Database, CHS High School, IIT-B
 
 -- Data types:
